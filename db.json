@@ -1,0 +1,68 @@
+{
+  "products":[
+    {
+      "id":1,
+      "name":"Computers & Accessories",
+      "imageUrl":"https://www.wallpaperup.com/uploads/wallpapers/2016/02/28/900829/1cce2f20146ee582f21d9b37d7aee684-700.jpg"
+    },
+    {
+      "id":2,
+      "name":"Beauty Picks",
+      "imageUrl":"https://evoke.ie/wp-content/uploads/2020/06/beauty-bay-3.jpg?width=1200&enable=upscale"
+    },
+    {
+      "id":3,
+      "name":"Fashion Trends",
+      "imageUrl":"https://images.squarespace-cdn.com/content/v1/55e3828be4b0b05d86d473be/1611687065409-QFBUKZ0DZA9E89AF5CUE/ke17ZwdGBToddI8pDm48kMiC1kkJMCC5CmdIxgmMBQRZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpwDkWRUVPzILwwU1Cm0tACnQ-gsxKt_jcXVfT9FtNluPGWW0QT5AQYLWdKSnWNUYi4/spring+summer+2021+fashion+trends+-+spring+summer+2021+fashion+color+trends"
+    },
+    {
+      "id":4,
+      "name":"Get Fit",
+      "imageUrl":"https://images.everydayhealth.com/images/healthy-living/fitness/choosing-the-right-workout-clothes-01-722x406.jpg"
+    },
+    {
+      "id":5,
+      "name":"Your Ideal TV",
+      "imageUrl":"https://spy.com/wp-content/uploads/2019/12/curved-tv-samsung.jpg?w=1000&h=750&crop=1"
+    },
+    {
+      "id":6,
+      "name":"Get Comfy",
+      "imageUrl":"https://p.scooper.news/v2-EagleNews/Eagle-NewsImage/detail/20201128/5220847f9c76aa43c5aae35c5e8e1bcd.webp"
+    },
+    {
+      "id":7,
+      "name":"Clean & Green",
+      "imageUrl":"https://www.lifesavvy.com/p/uploads/2020/05/b77cfb22.jpg"
+    },
+    {
+      "id":8,
+      "name":"Baby Shop",
+      "imageUrl":"https://blog.talkcharge.com/wp-content/uploads/2020/04/Best-Baby-Skin-Care-Products-in-India-1024x555.jpg"
+    },
+    {
+      "id":9,
+      "name":"Yummy",
+      "imageUrl":"https://www.adria.tm.fr/wp-content/uploads/2020/09/Food-pack-solutions-ADRIA.png"
+    }
+  ],
+
+
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

@@ -7,6 +7,7 @@ import { FooterComponent } from './footer/footer.component';
 import { MDBBootstrapModule } from 'angular-bootstrap-md';
 import { CarouselComponent } from './carousel/carousel.component';
 import { ShoppingProductsComponent } from './shopping-products/shopping-products.component';
+import { ItemsComponent } from './shopping-products/items/items.component';
 
 
 
@@ -16,7 +17,8 @@ import { ShoppingProductsComponent } from './shopping-products/shopping-products
     NavbarComponent,
     FooterComponent,
     CarouselComponent,
-    ShoppingProductsComponent
+    ShoppingProductsComponent,
+    ItemsComponent
   ],
   imports: [
     CommonModule,
@@ -30,7 +32,8 @@ import { ShoppingProductsComponent } from './shopping-products/shopping-products
     NavbarComponent,
     FooterComponent,
     CarouselComponent,
-    ShoppingProductsComponent
+    ShoppingProductsComponent,
+    ItemsComponent
   ]
 })
 export class HomePageModule { }
