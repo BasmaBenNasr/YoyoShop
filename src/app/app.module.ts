@@ -3,15 +3,17 @@ import { AppRoutingModule } from './app-routing.module';
 import { BrowserModule } from '@angular/platform-browser';
 import { MDBBootstrapModule } from 'angular-bootstrap-md';
 import { AppComponent } from './app.component';
-import { HomePageModule } from './home-page/home-page.module';
 import { HttpClientModule } from '@angular/common/http';
+import { HomePageModule } from './home-page/home-page.module';
+
 
 
 
 @NgModule({
   declarations: [
     AppComponent,
-    
+  
+
 
   ],
   imports: [
@@ -19,7 +21,8 @@ import { HttpClientModule } from '@angular/common/http';
     HttpClientModule,
     AppRoutingModule,
     MDBBootstrapModule.forRoot(),
-    HomePageModule
+    HomePageModule,
+    
   ],
   schemas: [NO_ERRORS_SCHEMA],
   providers: [],
